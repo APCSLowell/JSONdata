@@ -20,7 +20,7 @@ Extensions
 ----------
 You can create animations to match the data. Instead of displaying the temperature as a number, you could create a thermometer that rises and falls. You could have an animation of moving clouds that reflects the wind speed. You can search the internet for other JSON data. Your program doesn't have to display weather information. Have fun and be creative.
 
-*This project 12 from [The Sparkfun Guide to Processing](https://www.nostarch.com/sparkfunprocessing)*  
+*This is project 12 from [The Sparkfun Guide to Processing](https://www.nostarch.com/sparkfunprocessing)*  
 
 Samples of Student Work
 -----------------------
