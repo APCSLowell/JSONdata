@@ -1,6 +1,6 @@
 JSON Weather Data
 =========================
-For this assignment we will gather data from the internet and create a dashboard that graphically displays that data. One standard way of transmitting data is *JavaScript Object notation* (JSON). For an example, click this link for the [openweathermap San Francisco weather JSON data](http://api.openweathermap.org/data/2.5/weather?q=San%20Francisco,CA). To make it more readable, copy and paste the data into [JSONLint](http://jsonlint.com/) and click *validate*. If you read through the data, you'll notice that there is information on temperature, wind speed, humidity and other data that is updated in real time. Processing has a JSON library that lets us tap into this data and use it in our programs.
+For this assignment we will gather data from the internet and create a dashboard that graphically displays that data. One standard way of transmitting data is *JavaScript Object Notation* (JSON). For an example, click this link for the [openweathermap San Francisco weather JSON data](http://api.openweathermap.org/data/2.5/weather?q=San%20Francisco,CA). To make it more readable, copy and paste the data into [JSONLint](http://jsonlint.com/) and click *validate*. If you read through the data, you'll notice that there is information on temperature, wind speed, humidity and other data that is updated in real time. Processing has a JSON library that lets us tap into this data and use it in our programs.
  
 Suggested steps to completing the assignment
 --------------------------------------------
